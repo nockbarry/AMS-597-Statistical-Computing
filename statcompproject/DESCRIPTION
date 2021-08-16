@@ -1,0 +1,12 @@
+Package: statcompproject
+Type: Package
+Title: P-Value Pooling for Partially Matched Samples
+Version: 0.1.0
+Author: Nicholas Barrett
+Maintainer: Nicholas Barrett <nicholas.barrett@stonybrook.edu>
+Description: This package is an implementation of the methods presented in 
+"A Simple and Robust Method for Partially Matched Samples Using the P-Values Pooling Approach"
+Included in this package is 5 functions for generating statistics about partially matched samples
+License: 
+Encoding: UTF-8
+LazyData: true
